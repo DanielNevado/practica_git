@@ -1,2 +1,2 @@
 # practica_git
-Practica github
+Practica github de entornos UT4_EJ7
